@@ -1,1 +1,0 @@
-git rm shop555
