@@ -1,1 +1,1 @@
-# shop555
+git rm shop555
